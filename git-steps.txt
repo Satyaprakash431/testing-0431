@@ -1,0 +1,13 @@
+git init
+git status
+git add README.md
+git status
+git commit -m leaning1
+git config --global user.name Satyaprakash431
+git config --global user.email spr0431@gmail.com
+git remote -v
+git remote set-url origin https://Satyaprakash:ghp_cJs5GKkzo7uUBPfi5sdk0UW4lAdiQi1@github.com/Satyaprakash431/Git-demo.git
+git push -u origin main
+git status
+
+
